@@ -7,7 +7,7 @@
 
 console.log('Пример 1:');
 
-let minute = 59;
+let minute = 58;
 
 if(minute >= 0 && minute <= 15){
     console.log('1ая четверть');
